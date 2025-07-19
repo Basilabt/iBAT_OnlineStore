@@ -1,6 +1,6 @@
 # 🛍️ iBAT Online Store - Fullstack iOS Application
 
-<img  alt="Image" src="https://private-user-images.githubusercontent.com/77483631/464822566-466026d8-d4ba-42bc-ae3a-efccbdd7a4ec.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTIxNzAxOTQsIm5iZiI6MTc1MjE2OTg5NCwicGF0aCI6Ii83NzQ4MzYzMS80NjQ4MjI1NjYtNDY2MDI2ZDgtZDRiYS00MmJjLWFlM2EtZWZjY2JkZDdhNGVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzEwVDE3NTEzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRlODEzNTExOGZjZDY1ZjhkZTliMGExOWIzOTJhYjVjNDRjMGY1NTk2YmRjOThjNmEwZTljM2Q5NTVlMzcxMTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.f_jE4eLnBPLOrfkbj1HJ7JsqgT6usQUjyf5KVky8Lfo" />
+<img  alt="Image" src="<img width="1280" height="640" alt="Image" src="https://github.com/user-attachments/assets/cfd55742-59c7-44ca-ab26-c46abc27a0f0" />" />
 
 
 
