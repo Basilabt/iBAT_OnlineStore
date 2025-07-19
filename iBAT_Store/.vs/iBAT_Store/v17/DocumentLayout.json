@@ -1,0 +1,699 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C78BEEC0-CEE7-4A23-96A8-7C1D63C61641}|iBAT_Store.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_store\\ibat_store\\controllers\\ibatstorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78BEEC0-CEE7-4A23-96A8-7C1D63C61641}|iBAT_Store.csproj|solutionrelative:controllers\\ibatstorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B186CA8F-32E8-4CD3-9762-A32A8785B568}|..\\iBAT_Store_DataAccess_Layer\\iBAT_Store_DataAccess_Layer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_store\\ibat_store_dataaccess_layer\\clsuserdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62CD2970-AB39-4711-8606-B1F050373403}|..\\iBAT_Store_Business_Layer\\iBAT_Store_Business_Layer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_store\\ibat_store_business_layer\\clsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78BEEC0-CEE7-4A23-96A8-7C1D63C61641}|iBAT_Store.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_store\\ibat_store\\model\\profile\\clsupdateprofileinformationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78BEEC0-CEE7-4A23-96A8-7C1D63C61641}|iBAT_Store.csproj|solutionrelative:model\\profile\\clsupdateprofileinformationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B186CA8F-32E8-4CD3-9762-A32A8785B568}|..\\iBAT_Store_DataAccess_Layer\\iBAT_Store_DataAccess_Layer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_store\\ibat_store_dataaccess_layer\\dtos\\clsuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78BEEC0-CEE7-4A23-96A8-7C1D63C61641}|iBAT_Store.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_store\\ibat_store\\model\\profile\\clsupdateprofileinformationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78BEEC0-CEE7-4A23-96A8-7C1D63C61641}|iBAT_Store.csproj|solutionrelative:model\\profile\\clsupdateprofileinformationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78BEEC0-CEE7-4A23-96A8-7C1D63C61641}|iBAT_Store.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_store\\ibat_store\\model\\profile\\clsgetprofileinformationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78BEEC0-CEE7-4A23-96A8-7C1D63C61641}|iBAT_Store.csproj|solutionrelative:model\\profile\\clsgetprofileinformationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78BEEC0-CEE7-4A23-96A8-7C1D63C61641}|iBAT_Store.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_store\\ibat_store\\model\\profile\\clsgetprofileinformationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78BEEC0-CEE7-4A23-96A8-7C1D63C61641}|iBAT_Store.csproj|solutionrelative:model\\profile\\clsgetprofileinformationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78BEEC0-CEE7-4A23-96A8-7C1D63C61641}|iBAT_Store.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_store\\ibat_store\\model\\signup\\clssignupresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78BEEC0-CEE7-4A23-96A8-7C1D63C61641}|iBAT_Store.csproj|solutionrelative:model\\signup\\clssignupresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78BEEC0-CEE7-4A23-96A8-7C1D63C61641}|iBAT_Store.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_store\\ibat_store\\model\\signup\\clssignuprequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78BEEC0-CEE7-4A23-96A8-7C1D63C61641}|iBAT_Store.csproj|solutionrelative:model\\signup\\clssignuprequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B186CA8F-32E8-4CD3-9762-A32A8785B568}|..\\iBAT_Store_DataAccess_Layer\\iBAT_Store_DataAccess_Layer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_store\\ibat_store_dataaccess_layer\\clsaccountdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78BEEC0-CEE7-4A23-96A8-7C1D63C61641}|iBAT_Store.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_store\\ibat_store\\model\\login\\clssigninbyusernameandpasswordresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78BEEC0-CEE7-4A23-96A8-7C1D63C61641}|iBAT_Store.csproj|solutionrelative:model\\login\\clssigninbyusernameandpasswordresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B186CA8F-32E8-4CD3-9762-A32A8785B568}|..\\iBAT_Store_DataAccess_Layer\\iBAT_Store_DataAccess_Layer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_store\\ibat_store_dataaccess_layer\\clspersondataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62CD2970-AB39-4711-8606-B1F050373403}|..\\iBAT_Store_Business_Layer\\iBAT_Store_Business_Layer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_store\\ibat_store_business_layer\\clsperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62CD2970-AB39-4711-8606-B1F050373403}|..\\iBAT_Store_Business_Layer\\iBAT_Store_Business_Layer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_store\\ibat_store_business_layer\\clsproductinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62CD2970-AB39-4711-8606-B1F050373403}|..\\iBAT_Store_Business_Layer\\iBAT_Store_Business_Layer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_store\\ibat_store_business_layer\\clsdeliverylocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78BEEC0-CEE7-4A23-96A8-7C1D63C61641}|iBAT_Store.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_store\\ibat_store\\model\\login\\clssigninbyusernameandpasswordrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78BEEC0-CEE7-4A23-96A8-7C1D63C61641}|iBAT_Store.csproj|solutionrelative:model\\login\\clssigninbyusernameandpasswordrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78BEEC0-CEE7-4A23-96A8-7C1D63C61641}|iBAT_Store.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_store\\ibat_store\\model\\orders\\clsgetaccountordersrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78BEEC0-CEE7-4A23-96A8-7C1D63C61641}|iBAT_Store.csproj|solutionrelative:model\\orders\\clsgetaccountordersrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62CD2970-AB39-4711-8606-B1F050373403}|..\\iBAT_Store_Business_Layer\\iBAT_Store_Business_Layer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_store\\ibat_store_business_layer\\clsorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B186CA8F-32E8-4CD3-9762-A32A8785B568}|..\\iBAT_Store_DataAccess_Layer\\iBAT_Store_DataAccess_Layer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_store\\ibat_store_dataaccess_layer\\clsorderdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B186CA8F-32E8-4CD3-9762-A32A8785B568}|..\\iBAT_Store_DataAccess_Layer\\iBAT_Store_DataAccess_Layer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_store\\ibat_store_dataaccess_layer\\dtos\\clsplacedorderdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78BEEC0-CEE7-4A23-96A8-7C1D63C61641}|iBAT_Store.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_store\\ibat_store\\model\\products\\clspurchaseproductrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78BEEC0-CEE7-4A23-96A8-7C1D63C61641}|iBAT_Store.csproj|solutionrelative:model\\products\\clspurchaseproductrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78BEEC0-CEE7-4A23-96A8-7C1D63C61641}|iBAT_Store.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_store\\ibat_store\\model\\products\\clsgetallinventoryproductsofcategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78BEEC0-CEE7-4A23-96A8-7C1D63C61641}|iBAT_Store.csproj|solutionrelative:model\\products\\clsgetallinventoryproductsofcategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B186CA8F-32E8-4CD3-9762-A32A8785B568}|..\\iBAT_Store_DataAccess_Layer\\iBAT_Store_DataAccess_Layer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_store\\ibat_store_dataaccess_layer\\clsproductinventorydataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78BEEC0-CEE7-4A23-96A8-7C1D63C61641}|iBAT_Store.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_store\\ibat_store\\model\\products\\clspurchaseproductresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78BEEC0-CEE7-4A23-96A8-7C1D63C61641}|iBAT_Store.csproj|solutionrelative:model\\products\\clspurchaseproductresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B186CA8F-32E8-4CD3-9762-A32A8785B568}|..\\iBAT_Store_DataAccess_Layer\\iBAT_Store_DataAccess_Layer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_store\\ibat_store_dataaccess_layer\\dtos\\clsorderitemsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62CD2970-AB39-4711-8606-B1F050373403}|..\\iBAT_Store_Business_Layer\\iBAT_Store_Business_Layer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_store\\ibat_store_business_layer\\clsorderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B186CA8F-32E8-4CD3-9762-A32A8785B568}|..\\iBAT_Store_DataAccess_Layer\\iBAT_Store_DataAccess_Layer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_store\\ibat_store_dataaccess_layer\\dtos\\clsorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B186CA8F-32E8-4CD3-9762-A32A8785B568}|..\\iBAT_Store_DataAccess_Layer\\iBAT_Store_DataAccess_Layer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_store\\ibat_store_dataaccess_layer\\dtos\\clsdeliverylocationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B186CA8F-32E8-4CD3-9762-A32A8785B568}|..\\iBAT_Store_DataAccess_Layer\\iBAT_Store_DataAccess_Layer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_store\\ibat_store_dataaccess_layer\\dtos\\clspaymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62CD2970-AB39-4711-8606-B1F050373403}|..\\iBAT_Store_Business_Layer\\iBAT_Store_Business_Layer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_store\\ibat_store_business_layer\\clspayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B186CA8F-32E8-4CD3-9762-A32A8785B568}|..\\iBAT_Store_DataAccess_Layer\\iBAT_Store_DataAccess_Layer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_store\\ibat_store_dataaccess_layer\\dtos\\clspaymentmethoddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62CD2970-AB39-4711-8606-B1F050373403}|..\\iBAT_Store_Business_Layer\\iBAT_Store_Business_Layer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_store\\ibat_store_business_layer\\clspaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B186CA8F-32E8-4CD3-9762-A32A8785B568}|..\\iBAT_Store_DataAccess_Layer\\iBAT_Store_DataAccess_Layer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_store\\ibat_store_dataaccess_layer\\dtos\\clsproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B186CA8F-32E8-4CD3-9762-A32A8785B568}|..\\iBAT_Store_DataAccess_Layer\\iBAT_Store_DataAccess_Layer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_store\\ibat_store_dataaccess_layer\\dtos\\clspersondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62CD2970-AB39-4711-8606-B1F050373403}|..\\iBAT_Store_Business_Layer\\iBAT_Store_Business_Layer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_store\\ibat_store_business_layer\\ibat_store_business_layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B186CA8F-32E8-4CD3-9762-A32A8785B568}|..\\iBAT_Store_DataAccess_Layer\\iBAT_Store_DataAccess_Layer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_store\\ibat_store_dataaccess_layer\\clsproductdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78BEEC0-CEE7-4A23-96A8-7C1D63C61641}|iBAT_Store.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_store\\ibat_store\\model\\products\\clsgetallinventoryproductsresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78BEEC0-CEE7-4A23-96A8-7C1D63C61641}|iBAT_Store.csproj|solutionrelative:model\\products\\clsgetallinventoryproductsresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B186CA8F-32E8-4CD3-9762-A32A8785B568}|..\\iBAT_Store_DataAccess_Layer\\iBAT_Store_DataAccess_Layer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_store\\ibat_store_dataaccess_layer\\dtos\\clsproductinventorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62CD2970-AB39-4711-8606-B1F050373403}|..\\iBAT_Store_Business_Layer\\iBAT_Store_Business_Layer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_store\\ibat_store_business_layer\\clsproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B186CA8F-32E8-4CD3-9762-A32A8785B568}|..\\iBAT_Store_DataAccess_Layer\\iBAT_Store_DataAccess_Layer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_store\\ibat_store_dataaccess_layer\\dtos\\clsaccountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62CD2970-AB39-4711-8606-B1F050373403}|..\\iBAT_Store_Business_Layer\\iBAT_Store_Business_Layer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_store\\ibat_store_business_layer\\clsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B186CA8F-32E8-4CD3-9762-A32A8785B568}|..\\iBAT_Store_DataAccess_Layer\\iBAT_Store_DataAccess_Layer.csproj|d:\\basel\\bat\\ios mobile app backend\\ibat_store\\ibat_store_dataaccess_layer\\clsdataaccesssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Basel\\BAT\\MVC .NET Projects\\05- Massenger_Clone\\Application\\API\\Controllers\\MassengerAPIController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsUpdateProfileInformationRequestDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store\\Model\\Profile\\clsUpdateProfileInformationRequestDTO.cs",
+              "RelativeDocumentMoniker": "Model\\Profile\\clsUpdateProfileInformationRequestDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store\\Model\\Profile\\clsUpdateProfileInformationRequestDTO.cs",
+              "RelativeToolTip": "Model\\Profile\\clsUpdateProfileInformationRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T13:18:28.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clsSignUpResponseDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store\\Model\\SignUp\\clsSignUpResponseDTO.cs",
+              "RelativeDocumentMoniker": "Model\\SignUp\\clsSignUpResponseDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store\\Model\\SignUp\\clsSignUpResponseDTO.cs",
+              "RelativeToolTip": "Model\\SignUp\\clsSignUpResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T18:36:52.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsGetProfileInformationRequestDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store\\Model\\Profile\\clsGetProfileInformationRequestDTO.cs",
+              "RelativeDocumentMoniker": "Model\\Profile\\clsGetProfileInformationRequestDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store\\Model\\Profile\\clsGetProfileInformationRequestDTO.cs",
+              "RelativeToolTip": "Model\\Profile\\clsGetProfileInformationRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T10:09:08.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "iBATStoreController.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store\\Controllers\\iBATStoreController.cs",
+              "RelativeDocumentMoniker": "Controllers\\iBATStoreController.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store\\Controllers\\iBATStoreController.cs",
+              "RelativeToolTip": "Controllers\\iBATStoreController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:51:04.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsUser.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_Business_Layer\\clsUser.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_Store_Business_Layer\\clsUser.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_Business_Layer\\clsUser.cs",
+              "RelativeToolTip": "..\\iBAT_Store_Business_Layer\\clsUser.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAUwHIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T17:03:27.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsGetProfileInformationResponseDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store\\Model\\Profile\\clsGetProfileInformationResponseDTO.cs",
+              "RelativeDocumentMoniker": "Model\\Profile\\clsGetProfileInformationResponseDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store\\Model\\Profile\\clsGetProfileInformationResponseDTO.cs",
+              "RelativeToolTip": "Model\\Profile\\clsGetProfileInformationResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T10:10:12.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsUserDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_DataAccess_Layer\\DTOs\\clsUserDTO.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_Store_DataAccess_Layer\\DTOs\\clsUserDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_DataAccess_Layer\\DTOs\\clsUserDTO.cs",
+              "RelativeToolTip": "..\\iBAT_Store_DataAccess_Layer\\DTOs\\clsUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T18:18:32.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsUserDataAccess.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_DataAccess_Layer\\clsUserDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_Store_DataAccess_Layer\\clsUserDataAccess.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_DataAccess_Layer\\clsUserDataAccess.cs",
+              "RelativeToolTip": "..\\iBAT_Store_DataAccess_Layer\\clsUserDataAccess.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAAPsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T18:17:34.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsUpdateProfileInformationResponseDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store\\Model\\Profile\\clsUpdateProfileInformationResponseDTO.cs",
+              "RelativeDocumentMoniker": "Model\\Profile\\clsUpdateProfileInformationResponseDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store\\Model\\Profile\\clsUpdateProfileInformationResponseDTO.cs",
+              "RelativeToolTip": "Model\\Profile\\clsUpdateProfileInformationResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T13:18:45.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "clsSignUpRequestDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store\\Model\\SignUp\\clsSignUpRequestDTO.cs",
+              "RelativeDocumentMoniker": "Model\\SignUp\\clsSignUpRequestDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store\\Model\\SignUp\\clsSignUpRequestDTO.cs",
+              "RelativeToolTip": "Model\\SignUp\\clsSignUpRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T18:37:22.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "clsSignInByUsernameAndPasswordRequestDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store\\Model\\Login\\clsSignInByUsernameAndPasswordRequestDTO.cs",
+              "RelativeDocumentMoniker": "Model\\Login\\clsSignInByUsernameAndPasswordRequestDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store\\Model\\Login\\clsSignInByUsernameAndPasswordRequestDTO.cs",
+              "RelativeToolTip": "Model\\Login\\clsSignInByUsernameAndPasswordRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T20:16:36.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "clsPerson.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_Business_Layer\\clsPerson.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_Store_Business_Layer\\clsPerson.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_Business_Layer\\clsPerson.cs",
+              "RelativeToolTip": "..\\iBAT_Store_Business_Layer\\clsPerson.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAgwFkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T17:03:12.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "clsPersonDataAccess.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_DataAccess_Layer\\clsPersonDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_Store_DataAccess_Layer\\clsPersonDataAccess.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_DataAccess_Layer\\clsPersonDataAccess.cs",
+              "RelativeToolTip": "..\\iBAT_Store_DataAccess_Layer\\clsPersonDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T14:22:37.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "clsDeliveryLocation.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_Business_Layer\\clsDeliveryLocation.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_Store_Business_Layer\\clsDeliveryLocation.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_Business_Layer\\clsDeliveryLocation.cs",
+              "RelativeToolTip": "..\\iBAT_Store_Business_Layer\\clsDeliveryLocation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T13:26:21.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "clsProductInventory.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_Business_Layer\\clsProductInventory.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_Store_Business_Layer\\clsProductInventory.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_Business_Layer\\clsProductInventory.cs",
+              "RelativeToolTip": "..\\iBAT_Store_Business_Layer\\clsProductInventory.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAmwGoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T20:22:31.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "clsAccountDataAccess.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_DataAccess_Layer\\clsAccountDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_Store_DataAccess_Layer\\clsAccountDataAccess.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_DataAccess_Layer\\clsAccountDataAccess.cs",
+              "RelativeToolTip": "..\\iBAT_Store_DataAccess_Layer\\clsAccountDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwA0AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T15:06:59.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "clsSignInByUsernameAndPasswordResponseDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store\\Model\\Login\\clsSignInByUsernameAndPasswordResponseDTO.cs",
+              "RelativeDocumentMoniker": "Model\\Login\\clsSignInByUsernameAndPasswordResponseDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store\\Model\\Login\\clsSignInByUsernameAndPasswordResponseDTO.cs",
+              "RelativeToolTip": "Model\\Login\\clsSignInByUsernameAndPasswordResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T20:17:15.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "clsOrderItems.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_Business_Layer\\clsOrderItems.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_Store_Business_Layer\\clsOrderItems.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_Business_Layer\\clsOrderItems.cs",
+              "RelativeToolTip": "..\\iBAT_Store_Business_Layer\\clsOrderItems.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T14:01:58.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "clsOrderDataAccess.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_DataAccess_Layer\\clsOrderDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_Store_DataAccess_Layer\\clsOrderDataAccess.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_DataAccess_Layer\\clsOrderDataAccess.cs",
+              "RelativeToolTip": "..\\iBAT_Store_DataAccess_Layer\\clsOrderDataAccess.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwD0AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T14:07:28.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "clsOrder.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_Business_Layer\\clsOrder.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_Store_Business_Layer\\clsOrder.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_Business_Layer\\clsOrder.cs",
+              "RelativeToolTip": "..\\iBAT_Store_Business_Layer\\clsOrder.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAgwF8AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T13:49:48.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "clsGetAllInventoryProductsOfCategoryRequestDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store\\Model\\Products\\clsGetAllInventoryProductsOfCategoryRequestDTO.cs",
+              "RelativeDocumentMoniker": "Model\\Products\\clsGetAllInventoryProductsOfCategoryRequestDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store\\Model\\Products\\clsGetAllInventoryProductsOfCategoryRequestDTO.cs",
+              "RelativeToolTip": "Model\\Products\\clsGetAllInventoryProductsOfCategoryRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T22:15:29.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "clsPurchaseProductRequestDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store\\Model\\Products\\clsPurchaseProductRequestDTO.cs",
+              "RelativeDocumentMoniker": "Model\\Products\\clsPurchaseProductRequestDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store\\Model\\Products\\clsPurchaseProductRequestDTO.cs",
+              "RelativeToolTip": "Model\\Products\\clsPurchaseProductRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T18:58:01.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "clsDeliveryLocationDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_DataAccess_Layer\\DTOs\\clsDeliveryLocationDTO.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_Store_DataAccess_Layer\\DTOs\\clsDeliveryLocationDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_DataAccess_Layer\\DTOs\\clsDeliveryLocationDTO.cs",
+              "RelativeToolTip": "..\\iBAT_Store_DataAccess_Layer\\DTOs\\clsDeliveryLocationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T14:37:06.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "clsProductInventoryDataAccess.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_DataAccess_Layer\\clsProductInventoryDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_Store_DataAccess_Layer\\clsProductInventoryDataAccess.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_DataAccess_Layer\\clsProductInventoryDataAccess.cs",
+              "RelativeToolTip": "..\\iBAT_Store_DataAccess_Layer\\clsProductInventoryDataAccess.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwB0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T20:39:12.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "clsPlacedOrderDetailsDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_DataAccess_Layer\\DTOs\\clsPlacedOrderDetailsDTO.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_Store_DataAccess_Layer\\DTOs\\clsPlacedOrderDetailsDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_DataAccess_Layer\\DTOs\\clsPlacedOrderDetailsDTO.cs",
+              "RelativeToolTip": "..\\iBAT_Store_DataAccess_Layer\\DTOs\\clsPlacedOrderDetailsDTO.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA4wCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T12:21:45.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "clsGetAccountOrdersRequestDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store\\Model\\Orders\\clsGetAccountOrdersRequestDTO.cs",
+              "RelativeDocumentMoniker": "Model\\Orders\\clsGetAccountOrdersRequestDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store\\Model\\Orders\\clsGetAccountOrdersRequestDTO.cs",
+              "RelativeToolTip": "Model\\Orders\\clsGetAccountOrdersRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:15:58.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "clsPaymentMethod.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_Business_Layer\\clsPaymentMethod.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_Store_Business_Layer\\clsPaymentMethod.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_Business_Layer\\clsPaymentMethod.cs",
+              "RelativeToolTip": "..\\iBAT_Store_Business_Layer\\clsPaymentMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T13:32:09.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "clsPayment.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_Business_Layer\\clsPayment.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_Store_Business_Layer\\clsPayment.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_Business_Layer\\clsPayment.cs",
+              "RelativeToolTip": "..\\iBAT_Store_Business_Layer\\clsPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T13:37:32.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "clsPurchaseProductResponseDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store\\Model\\Products\\clsPurchaseProductResponseDTO.cs",
+              "RelativeDocumentMoniker": "Model\\Products\\clsPurchaseProductResponseDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store\\Model\\Products\\clsPurchaseProductResponseDTO.cs",
+              "RelativeToolTip": "Model\\Products\\clsPurchaseProductResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T19:00:57.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "clsPaymentMethodDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_DataAccess_Layer\\DTOs\\clsPaymentMethodDTO.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_Store_DataAccess_Layer\\DTOs\\clsPaymentMethodDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_DataAccess_Layer\\DTOs\\clsPaymentMethodDTO.cs",
+              "RelativeToolTip": "..\\iBAT_Store_DataAccess_Layer\\DTOs\\clsPaymentMethodDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T14:37:21.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "clsPaymentDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_DataAccess_Layer\\DTOs\\clsPaymentDTO.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_Store_DataAccess_Layer\\DTOs\\clsPaymentDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_DataAccess_Layer\\DTOs\\clsPaymentDTO.cs",
+              "RelativeToolTip": "..\\iBAT_Store_DataAccess_Layer\\DTOs\\clsPaymentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T14:37:33.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "clsOrderDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_DataAccess_Layer\\DTOs\\clsOrderDTO.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_Store_DataAccess_Layer\\DTOs\\clsOrderDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_DataAccess_Layer\\DTOs\\clsOrderDTO.cs",
+              "RelativeToolTip": "..\\iBAT_Store_DataAccess_Layer\\DTOs\\clsOrderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T14:39:10.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "clsProductDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_DataAccess_Layer\\DTOs\\clsProductDTO.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_Store_DataAccess_Layer\\DTOs\\clsProductDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_DataAccess_Layer\\DTOs\\clsProductDTO.cs",
+              "RelativeToolTip": "..\\iBAT_Store_DataAccess_Layer\\DTOs\\clsProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T20:29:55.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "clsPersonDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_DataAccess_Layer\\DTOs\\clsPersonDTO.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_Store_DataAccess_Layer\\DTOs\\clsPersonDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_DataAccess_Layer\\DTOs\\clsPersonDTO.cs",
+              "RelativeToolTip": "..\\iBAT_Store_DataAccess_Layer\\DTOs\\clsPersonDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T14:23:17.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "clsOrderItemsDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_DataAccess_Layer\\DTOs\\clsOrderItemsDTO.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_Store_DataAccess_Layer\\DTOs\\clsOrderItemsDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_DataAccess_Layer\\DTOs\\clsOrderItemsDTO.cs",
+              "RelativeToolTip": "..\\iBAT_Store_DataAccess_Layer\\DTOs\\clsOrderItemsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T14:40:53.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "iBAT_Store_Business_Layer.csproj",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_Business_Layer\\iBAT_Store_Business_Layer.csproj",
+              "RelativeDocumentMoniker": "..\\iBAT_Store_Business_Layer\\iBAT_Store_Business_Layer.csproj",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_Business_Layer\\iBAT_Store_Business_Layer.csproj",
+              "RelativeToolTip": "..\\iBAT_Store_Business_Layer\\iBAT_Store_Business_Layer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-26T16:47:44.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "clsProductInventoryDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_DataAccess_Layer\\DTOs\\clsProductInventoryDTO.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_Store_DataAccess_Layer\\DTOs\\clsProductInventoryDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_DataAccess_Layer\\DTOs\\clsProductInventoryDTO.cs",
+              "RelativeToolTip": "..\\iBAT_Store_DataAccess_Layer\\DTOs\\clsProductInventoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T20:40:11.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "clsProduct.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_Business_Layer\\clsProduct.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_Store_Business_Layer\\clsProduct.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_Business_Layer\\clsProduct.cs",
+              "RelativeToolTip": "..\\iBAT_Store_Business_Layer\\clsProduct.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwEMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T20:17:50.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "clsGetAllInventoryProductsResponseDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store\\Model\\Products\\clsGetAllInventoryProductsResponseDTO.cs",
+              "RelativeDocumentMoniker": "Model\\Products\\clsGetAllInventoryProductsResponseDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store\\Model\\Products\\clsGetAllInventoryProductsResponseDTO.cs",
+              "RelativeToolTip": "Model\\Products\\clsGetAllInventoryProductsResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T20:10:04.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "clsProductDataAccess.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_DataAccess_Layer\\clsProductDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_Store_DataAccess_Layer\\clsProductDataAccess.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_DataAccess_Layer\\clsProductDataAccess.cs",
+              "RelativeToolTip": "..\\iBAT_Store_DataAccess_Layer\\clsProductDataAccess.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwA0AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T20:29:39.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "clsAccountDTO.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_DataAccess_Layer\\DTOs\\clsAccountDTO.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_Store_DataAccess_Layer\\DTOs\\clsAccountDTO.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_DataAccess_Layer\\DTOs\\clsAccountDTO.cs",
+              "RelativeToolTip": "..\\iBAT_Store_DataAccess_Layer\\DTOs\\clsAccountDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T15:07:13.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "clsAccount.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_Business_Layer\\clsAccount.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_Store_Business_Layer\\clsAccount.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_Business_Layer\\clsAccount.cs",
+              "RelativeToolTip": "..\\iBAT_Store_Business_Layer\\clsAccount.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAswFcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T14:33:08.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MassengerAPIController.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\MVC .NET Projects\\05- Massenger_Clone\\Application\\API\\Controllers\\MassengerAPIController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\MVC .NET Projects\\05- Massenger_Clone\\Application\\API\\Controllers\\MassengerAPIController.cs",
+              "ToolTip": "D:\\Basel\\BAT\\MVC .NET Projects\\05- Massenger_Clone\\Application\\API\\Controllers\\MassengerAPIController.cs",
+              "RelativeToolTip": "..\\..\\..\\MVC .NET Projects\\05- Massenger_Clone\\Application\\API\\Controllers\\MassengerAPIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T20:19:20.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "clsDataAccessSettings.cs",
+              "DocumentMoniker": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_DataAccess_Layer\\clsDataAccessSettings.cs",
+              "RelativeDocumentMoniker": "..\\iBAT_Store_DataAccess_Layer\\clsDataAccessSettings.cs",
+              "ToolTip": "D:\\Basel\\BAT\\iOS Mobile App Backend\\iBAT_Store\\iBAT_Store_DataAccess_Layer\\clsDataAccessSettings.cs",
+              "RelativeToolTip": "..\\iBAT_Store_DataAccess_Layer\\clsDataAccessSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T18:24:09.99Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
