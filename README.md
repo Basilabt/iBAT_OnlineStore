@@ -62,19 +62,19 @@ This project includes:
 ## 📷 Screenshots
 
 #### Sign Up
-<img width="1206" height="2622" alt="Image" src="https://github.com/user-attachments/assets/6098f8dd-af79-43ac-9cca-e671690de3a6" />
+<img width="300" alt="Image" src="https://github.com/user-attachments/assets/6098f8dd-af79-43ac-9cca-e671690de3a6" />
 
 #### Sign In
-<img width="1206" height="2622" alt="Image" src="https://github.com/user-attachments/assets/b3c155cf-ead6-466f-a8aa-70087af0a058" />
+<img width="300" alt="Image" src="https://github.com/user-attachments/assets/b3c155cf-ead6-466f-a8aa-70087af0a058" />
 
 #### Products 
-<img width="1206" height="2622" alt="Image" src="https://github.com/user-attachments/assets/3030947d-dfe4-48d7-8b9b-776abbda618e" />
+<img width="300" alt="Image" src="https://github.com/user-attachments/assets/3030947d-dfe4-48d7-8b9b-776abbda618e" />
 
 #### Orders 
-<img width="1206" height="2622" alt="Image" src="https://github.com/user-attachments/assets/7cd3e243-63e0-4197-a32a-9f179ef48b9e" />
+<img width="300" alt="Image" src="https://github.com/user-attachments/assets/7cd3e243-63e0-4197-a32a-9f179ef48b9e" />
 
 #### Profile 
-<img width="1206" height="2622" alt="Image" src="https://github.com/user-attachments/assets/094891dd-5b42-4465-8a87-f08de28b3e2b" />
+<img width="300" alt="Image" src="https://github.com/user-attachments/assets/094891dd-5b42-4465-8a87-f08de28b3e2b" />
 
 ---
 
