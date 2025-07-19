@@ -44,9 +44,9 @@ This project includes:
 - **RESTful API** for communication with the mobile app
 - Hosted on your preferred cloud/server environment
 
-<img width="1127" height="703" alt="Image" src="https://github.com/user-attachments/assets/6a2aef88-80ac-4e73-a79d-becc49b645df" />
+<img width="1127" height="703" alt="Image" src="https://github.com/user-attachments/assets/fc600045-bac6-4130-bfbb-086441260713" />
 
-<img width="758" height="740" alt="Image" src="https://github.com/user-attachments/assets/76f2694d-30b7-4489-8f17-a9515e7a2e1b" />
+<img width="758" height="740" alt="Image" src="https://github.com/user-attachments/assets/470f96f2-0e8c-4f8f-90e1-0e7aa0acbabc" />
 
 ---
 
@@ -62,19 +62,19 @@ This project includes:
 ## 📷 Screenshots
 
 #### Sign Up
-<img width="450" alt="Image" src="https://github.com/user-attachments/assets/1d2de07e-afb3-4d00-b971-f3687afb9358" />
+<img width="1206" height="2622" alt="Image" src="https://github.com/user-attachments/assets/6098f8dd-af79-43ac-9cca-e671690de3a6" />
 
 #### Sign In
-<img width="450" alt="Image" src="https://github.com/user-attachments/assets/3e9d3a33-2faf-4374-a944-5bb13f219114" />
+<img width="1206" height="2622" alt="Image" src="https://github.com/user-attachments/assets/b3c155cf-ead6-466f-a8aa-70087af0a058" />
 
 #### Products 
-<img width="450" alt="Image" src="https://github.com/user-attachments/assets/86e2db53-f431-4776-8b41-df3f3f7acb28" />
+<img width="1206" height="2622" alt="Image" src="https://github.com/user-attachments/assets/3030947d-dfe4-48d7-8b9b-776abbda618e" />
 
 #### Orders 
-<img width="450" alt="Image" src="https://github.com/user-attachments/assets/960a725f-5885-47b1-8bb4-4095143bcc9d" />
+<img width="1206" height="2622" alt="Image" src="https://github.com/user-attachments/assets/7cd3e243-63e0-4197-a32a-9f179ef48b9e" />
 
 #### Profile 
-<img width="450"  alt="Image" src="https://github.com/user-attachments/assets/43297101-2bba-4e91-b674-fd0dad6902f1" />
+<img width="1206" height="2622" alt="Image" src="https://github.com/user-attachments/assets/094891dd-5b42-4465-8a87-f08de28b3e2b" />
 
 ---
 
