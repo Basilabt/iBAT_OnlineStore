@@ -1,7 +1,6 @@
 # 🛍️ iBAT Online Store - Fullstack iOS Application
 
-<img  alt="Image" src="<img width="1280" height="640" alt="Image" src="https://github.com/user-attachments/assets/cfd55742-59c7-44ca-ab26-c46abc27a0f0" />" />
-
+<img width="1280" height="640" alt="Image" src="https://github.com/user-attachments/assets/cfd55742-59c7-44ca-ab26-c46abc27a0f0" />
 
 
 [![👨‍💻 Developer](https://img.shields.io/badge/Developer-Basilabt-crimson)](https://github.com/Basilabt)  
